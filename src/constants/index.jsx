@@ -1152,26 +1152,26 @@ export const ContactCard = [
     icon: <TfiLocationPin />,
     title: "Address:",
     paragraph:
-      "244. Brixal 2nd cross St, California City. United States - 90005  ",
+      "Zone 7, Capital Area, Behind Capital Hotel, Osogbo, Nigeria - 10035  ",
   },
   {
     id: 2,
     icon: <CiMail />,
     title: "Email Address:",
-    paragraph: "infogexample.com",
+    paragraph: "olamitobitechnologies@gmail.com",
   },
   {
     id: 3,
     icon: <MdPhoneInTalk />,
     title: "Phone:",
     paragraph:
-      "Office: (+321) 567 89 0123. 890 12 3456  Customer-care: 1800-456-78-9012",
+      "Office: (+234) 813 432 4983.  Customer-care: 080 633 62208",
   },
   {
     id: 4,
     icon: <BsClockHistory />,
     title: "Working Hours:",
-    paragraph: "Mon - Sat Day: o9.0o to 18.00  ",
+    paragraph: "Mon - Sat Day: 09.00 to 18.00  ",
   },
 ];
 
