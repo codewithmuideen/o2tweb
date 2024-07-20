@@ -50,7 +50,7 @@ const CorporateTraining = () => {
                     className="rounded-full w-[53px]"
                   />
                   <div>
-                    <p className="text-Blue">MAREK OLEJNICZAK</p>
+                    <p className="text-Blue">AKINROYE MUIDEEEN</p>
                     <span>Director of Technology</span>
                   </div>
                 </div>

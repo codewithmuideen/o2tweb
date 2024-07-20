@@ -9,10 +9,10 @@ const Footer = () => {
           <div className="md:w-[30%] w-[100%] pt-10  flex  flex-col gap-7  px-2 md:px-0">
             <div className="text-Ash">
               <h2 className="text-[25px]">Contacts</h2>
-              <p>6 Mojidi Street,</p>
-              <p>Off Toyin Street,Ikeja,Lagos, Nigeria.</p>
-              <p> Nigeria tel: +234 703 204 9855</p>
-              <p> Mail: hello@dataquot.com</p>
+              <p>Zone 7, Capital Area,</p>
+              <p>Behind Capital Hotel, Osun, Nigeria.</p>
+              <p> Nigeria tel: +234(0) 813 432 4983</p>
+              <p> Mail: olamitobitechnologies@gmail.com</p>
             </div>
 
             <div className="">
@@ -70,7 +70,7 @@ const Footer = () => {
         <div className="pt-10">
           <div className="border-t border-Ash pt-3">
             <p className="text-Ash">
-              Copyright © 2023 DQ. All Rights Reserved.
+              Copyright © 2024 OlamiTobi Technologies. All Rights Reserved.
             </p>
           </div>
         </div>

@@ -16,11 +16,10 @@ const Clients = () => {
             </div>
             <div className="sm:w-[50%] w-full">
               <p className="text-[18px] leading-8">
-                At Data Quotient, we understand that selecting the right partner
+                At OlamiTobi Technolgies, we understand that selecting the right partner
                 for your technology, data, and development needs is a critical
                 decision. With a plethora of options available, it&apos;s
-                essential to know why DQ should be your top choice. Data
-                Quotient (DQ) stands out as the ideal partner for your
+                essential to know why DQ should be your top choice. OlamiTobi Technologies stands out as the ideal partner for your
                 technology, data, and development needs due to our expertise,
                 customization, data-driven approach, scalability, commitment to
                 quality, and client-centric approach. We are dedicated to

@@ -219,22 +219,22 @@ export const socials = [
   {
     id: 1,
     icon: <BiLogoLinkedin />,
-    url: "https://linkedin.com/company/data-quotient-hq",
+    url: "https://linkedin.com",
   },
   {
     id: 2,
     icon: <BiLogoTwitter />,
-    url: "https://twitter.com/_dataquotient",
+    url: "https://twitter.com",
   },
   {
     id: 3,
     icon: <BiLogoFacebook />,
-    url: "https://facebook.com/dataquotient",
+    url: "https://facebook.com",
   },
   {
     id: 4,
     icon: <BiLogoYoutube />,
-    url: "https://www.youtube.com/channel/UCgJ9NVI6Y92gzuE6YW7EubQ ",
+    url: "https://www.youtube.com",
   },
 ];
 

@@ -28,7 +28,7 @@ const Join = () => {
             <div className="pt-[30px]">
               <p className="text-[16px] font-Lato leading-[26px]">
                 If you appreciate team cohesion, data and platform engineering,
-                and continuous advancement, DQ is your destination. Join our
+                and continuous advancement, OlamiTobi Technologies is your destination. Join our
                 dynamic,leading development company.
               </p>
             </div>

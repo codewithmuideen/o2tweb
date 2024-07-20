@@ -16,10 +16,11 @@ const Header = () => {
           <div className=" px-3 md:py-3 flex flex-col gap-y-4 md:gap-y-2 justify-center md:items-start items-center w-full  sm:w-[554px]   ">
             <div>
               <h1 className="text-[40px] font-bold text-white leading-[45px]  sm:leading-[57px] text-focus-in">
-                Data Quotient <br />{" "}
+                OlamiTobi Technologies <br />{" "}
               </h1>
-              <span className="text-[30px] sm:leading-[40px] text-Yellow text-focus-in">
-                Simplified Data Insights for Smarter Business
+              <span className="text-[30px] sm:leading-[30px] text-Yellow text-focus-in">
+               
+"Empowering Innovation, Delivering Excellence"
               </span>
             </div>
             <p className="mt-4 sm:text-[23px] text-[20px] text-focus-in ">
